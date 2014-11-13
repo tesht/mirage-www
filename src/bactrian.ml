@@ -13,7 +13,7 @@ let bactrian =
 
 let entry_for_is_mirage_broken_wikipage =
   {
-    updated    = date (2014, 11, 29, 19, 00);
+    updated    = date (2014, 11, 13, 01, 22) 
     author     = bactrian;
     subject    = "Mirage build status";
     body       = File "is_mirage_broken.md";
